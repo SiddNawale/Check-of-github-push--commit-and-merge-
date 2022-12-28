@@ -1,3 +1,4 @@
+
 #check 2
 WITH basedata as (
     SELECT
@@ -27,3 +28,5 @@ WITH basedata as (
         )
         AND MRR <> 0
 )
+=======
+
