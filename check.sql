@@ -1,4 +1,4 @@
-#check
+#check 2
 WITH basedata as (
     SELECT
         distinct obt.COMPANY_ID,
